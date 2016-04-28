@@ -8,13 +8,13 @@ This assumes that the Current directory is project directory
 
 This results in following files
 
-	/ project
-	|	app
-	|	|	pages
+	project/
+	|	app/
+	|	|	pages/
 	|	|	|	pageName.css
 	|	|	|	pageName.html
 	|	|	|	pageName.js
-	|	www
+	|	www/
 	.	.
 	.	.
 	.	.
